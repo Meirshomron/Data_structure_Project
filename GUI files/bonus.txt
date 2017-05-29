@@ -1,0 +1,16 @@
+doggy;60;250
+Girl pig;100;100
+Skanky;180;410
+Wild coyyote;185;210
+Alian;250;350
+Dumb bird;300;230
+Little pest;377;485
+Daffy duck;380;240
+Usamittty sam;400;170
+Bugs bunny;460;250
+Pig;550;350
+Big turkey;640;70
+Elmo fud;710;290
+Crazy ed;730;80
+Fox;770;390
+Me!;498;590
